@@ -1,0 +1,28 @@
+header {
+    height: 80px;
+    border:1px solid #CCC;
+    margin:0px auto;
+    position: relative;
+    font-family: Bahnschrift;
+}
+#divNav{
+    font-family: Bahnschrift;
+}
+#imageLogo{
+    height: 80px;
+    width: 80px;
+}
+
+#lien {
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+}
+
+#lien:hover {
+    background-color: #333;
+}
+
