@@ -26,7 +26,7 @@ include ('./admin/lib/php/admin_liste_include.php');
             <div class="flex-grow-1 ms-3">
                 <h2>RESTAURANT</h2>
             </div>
-            <h5 class="ms-auto"><a id="lien" href ="index_.php?page=login.php">Connexion</a></h5>
+            <h5 class="ms-auto"><a id="lien" href ="index_.php?page=login.php">Connexion Admin</a></h5>
         </div>
     </header>
     <nav id="nav">

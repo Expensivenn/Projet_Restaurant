@@ -6,14 +6,12 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
+
             <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="./index_.php?page=plats.php">Nos plats</a>
+                <a class="nav-link"aria-current="page" href="index_.php?page=gestionIngredients.php">Gestion Ingredients</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" aria-current="page" href="index_.php?page=exer_jquery.php">Jquery Effet 1</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link"aria-current="page" href="index_.php?page=exer_jquery_ajax.php">Jquery Ajax</a>
+                <a class="nav-link"aria-current="page" href="index_.php?page=gestionPlat.php">Gestion Plats</a>
             </li>
         </ul>
     </div>

@@ -3,10 +3,10 @@ header {
     border:1px solid #CCC;
     margin:0px auto;
     position: relative;
-    font-family: Bahnschrift;
+    font-family: Bahnschrift, serif;
 }
 #divNav{
-    font-family: Bahnschrift;
+    font-family: Bahnschrift, serif;
 }
 #imageLogo{
     height: 80px;
@@ -23,4 +23,25 @@ header {
 
 #lien:hover {
     background-color: #333;
+}
+
+#ajouter_ingredient {
+    font-family: Bahnschrift, serif;
+    border: 2px solid #333;
+    padding: 10px;
+    background-color: lightgray;
+    font-weight: bold;
+    color: red;
+    display: inline-block;
+    border-radius: 5px;
+}
+#nouveau_td {
+    font-family: Bahnschrift, serif;
+    border: 2px solid #333;
+    padding: 10px;
+    background-color: lightgray;
+    font-weight: bold;
+    color: red;
+    display: inline-block;
+    border-radius: 5px;
 }

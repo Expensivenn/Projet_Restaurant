@@ -1,4 +1,4 @@
 <?php
 include ('lib/php/verifier_connexion.php');
 ?>
-<h1>ACCEUIL ADMIN</h1>
+<h1 style="text-align: center;">Menu de gestion du site</h1>

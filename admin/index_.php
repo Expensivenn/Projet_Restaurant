@@ -13,7 +13,11 @@ include ('./lib/php/admin_liste_include.php');
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.min.js" integrity="sha384-cuYeSxntonz0PPNlHhBs68uyIAVpIIOZZ5JqeqvYYIcEL727kskC66kF92t6Xl2V" crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+
+
     <link rel="stylesheet" type="text/css" href="./lib/css/custom.css"/>
+    <script src="./lib/js/fonction_jquery.js"></script>
 </head>
 <body>
 <div id="wrapper">
@@ -26,7 +30,7 @@ include ('./lib/php/admin_liste_include.php');
                 <div class="flex-grow-1 ms-3">
                     <h2>RESTAURANT</h2>
                 </div>
-                <h5 class="ms-auto"><a id="lien" href="index_.php?page=disconnect.php">Deconnexion</a></h5>
+                <h5 class="ms-auto"><a id="lien" href="index_.php?page=disconnect.php">Deconnexion Admin</a></h5>
 
             </div>
         </header>
